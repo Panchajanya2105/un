@@ -1,0 +1,18 @@
+{
+    "name": "John Doe",
+    "age": 25,
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "experience": [
+      {
+        "company": "TechCorp",
+        "role": "Frontend Developer",
+        "years": 3
+      },
+      {
+        "company": "WebWorks",
+        "role": "UI Designer",
+        "years": 2
+      }
+    ]
+  }
+  
